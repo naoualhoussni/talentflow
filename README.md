@@ -70,18 +70,8 @@ Start the Vite development server:
 npm run dev
 ```
 
-## 🔑 Test Credentials (Demo)
 
-Once both servers are running, you can log in at `http://localhost:5173/login` using the seeded accounts (Password for all accounts is `password123`):
 
-* **HR Manager**: `rh@techflow.ai`
-* **Candidate**: `candidate@techflow.ai`
-* **Employee**: `employee@techflow.ai`
-* **Admin**: `admin@techflow.ai`
-
-## 🔒 Security
-
-Sensitive files such as `.env` containing API keys and the local `dev.db` database are ignored via `.gitignore` to prevent secret leaks.
 
 ---
 *Developed as a full-stack SaaS project.*
